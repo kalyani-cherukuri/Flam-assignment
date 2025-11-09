@@ -56,7 +56,7 @@ Computed **total** and **average** L1 losses after optimization.
 
 ---
 
-## 🔹 Results
+## 4. Results
 
 | Parameter | Symbol | Estimated Value |
 |------------|----------|----------------:|
@@ -69,7 +69,7 @@ Computed **total** and **average** L1 losses after optimization.
 
 ---
 
-## 🔹 Final Estimated Model
+## 5. Final Estimated Model
 
 \[
 \begin{aligned}
@@ -82,13 +82,13 @@ y(t) &= 42 + t\sin(0.5244) + e^{0.029991|t|}\sin(0.3t)\cos(0.5244)
 
 ---
 
-## 🔹 Summary
+## 6. Summary
 By leveraging **L1-based error minimization** and **gradient-based refinement**, the model accurately captures nonlinear behavior in the observed data.  
 The low **average L1 loss (≈0.3023)** demonstrates excellent parameter recovery and model robustness.
 
 ---
 
-## 🔹 Dependencies
+## 7. Dependencies
 - Python 3.x  
 - NumPy  
 - SciPy  
